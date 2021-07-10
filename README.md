@@ -1,2 +1,2 @@
 # JumpyJump
-An indie game for mobile developed by Shay Maryuma.
+One of my mobile games that I have developed back in 2017.
