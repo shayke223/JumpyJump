@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 54454703a196e604384ac2ba04fee703
+timeCreated: 1527088198
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Web Serveroff
+  fontNames:
+  - Web Serveroff
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 13a99b34609dcf74cbe803699cf01497, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
